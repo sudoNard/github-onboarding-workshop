@@ -1,66 +1,44 @@
-# My Notes — \[REPLACE WITH YOUR FULL NAME]
-
-> \*\*How to use this file:\*\*
-> 1. \*\*Download\*\* this file to your computer — click the \*\*Raw\*\* button on GitHub, then right-click and \*Save As\*, OR click the download icon at the top-right of the file view
-> 2. \*\*Rename\*\* the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. \*\*Open\*\* the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. \*\*Upload\*\* your file to GitHub — go into this session folder on your forked repo, click \*\*Add file → Upload files\*\*, drag in your completed file, then click \*\*Commit changes\*\*
-> 5. \*\*Open a Pull Request\*\* back to the main repo — the facilitator will review your notes before merging
-
-\---
+# My Notes — \Omoboye Osinowo
 
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
+* Creation of Github account
+* Update of account profile
+* Upload of file on Github
+* How to fork a repository
 
-* 
-* 
-* 
-
-\---
 
 ## Lab / Hands-On Work
 
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-
-
+* I update my Github account and created a repository
+* Downloaded an existing template and renamed it before saving it on my local drive
+* The renamed file was then uploaded unto a repository.
+* The repository was accessed and the file was edited to answer the questions as stated on the template
 
 ### What happened / Result
-
+I eventually was able to edit one of the files and submitted the assignment.
 
 
 ### Challenges I faced
-
-
-
-\---
+I erroneously comitted a file twice and was unable to delete or edit any of the files
 
 ## My Takeaways
 
-<!-- What was most valuable to you personally from this session? -->
-
-
-
-\---
+How Github can be used as a document repository and collaboration platform
 
 ## Questions I Still Have
 
-<!-- Anything you want to follow up on or ask the mentor -->
+* How to delete a file wrongly comitted?
+* How restrict access when a repository is made public?
 
-* 
-* 
-
-\---
 
 ## Resources I Found Useful
 
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
+The hands-on lab explanation during the live session and the recorded class 
 
-* 
 
-\---
-
-*Submitted by: \[Your Full Name] · \[Your GitHub username]*
+*Submitted by: \Omoboye Osinowo · \BoyeAdeleke
 
