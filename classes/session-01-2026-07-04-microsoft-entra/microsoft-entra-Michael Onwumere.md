@@ -1,3 +1,5 @@
+# My Notes — MICHAEL CHINONSO ONWUMERE
+
 **Cloud Security & AI Bootcamp – Session Report**
 
 **Date :	Saturday, July 4, 2026**
